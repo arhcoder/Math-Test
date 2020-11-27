@@ -1,24 +1,46 @@
-# | Math Test |
+# Math Test
 
-Aplicación interactiva que prueba tu nivel de habilidad con las tablas de multiplicar, al
-estilo de un test.
+## Descripción
 
-* github.com/arhcoder/Math-Test
-__________________________________________________________________________________________
+🖥 Aplicación interactiva que prueba tu habilidad con las tablas de multiplicar, al estilo de un test. Configura qué tipo de test quieres, en base a las tablas de multiplicar que quieres estudiar y la cantidad de preguntas a contestar, luego registra los puntajes que obtengas. Ideal para uso educativo.
+____
 
-# CRÉDITOS:
 
-Desarrolladores:
-  * Alejandro Ramos Herrera (@arhcoder).
-__________________________________________________________________________________________
+## Acerca de
 
-# LICENSE:
-  * GNU GPLv3.
-__________________________________________________________________________________________
+📅 **Fecha de inicio:** Febrero de 2019.
 
-# ACERCA DE:
+✅ **Última actualización:** Febrero de 2020.
 
-Desarrollado en febrero de 2019.
-Tiempo de desarrollo: 8 días.
-Propósito: Propósito: Práctica y Entretenimiento.
-__________________________________________________________________________________________
+⏸ **Estado:** Incompleto.
+
+❓ **Propósito:** Entretenimiento.
+___
+
+
+## Créditos
+
+💻 **Programación:**
+  * Alejandro Ramos Herrera **(@arhcoder).**
+___
+
+
+## Tecnologías
+
+❄ **Lenguajes:**
+ * Java.
+ 
+🧰 **Entornos:**
+ * NetBeans IDE 8.2.
+___
+
+
+## Detalles
+
+🔰 ...
+___
+
+
+## Licencia
+
+📝 GNU GPLv3.
